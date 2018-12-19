@@ -1,25 +1,29 @@
 {
-  "author": {
-    "name": "borie88"
-  },
-  "bundleDependencies": false,
-  "dependencies": {
-    "axios": "^0.18.0",
-    "sanitize-html": "^1.18.2",
-    "emoji-strip": "^1.0.1"
-  },
-  "deprecated": false,
+  "name": "we-login",
+  "version": "2.0.0",
   "description": "Manage logins through WeChat Mini Programs",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/borie88/we-login.git"
+  },
   "keywords": [
     "WeChat",
     "Mini Program",
     "小程序"
   ],
-  "license": "ISC",
-  "main": "dist/index.js",
-  "name": "we-login",
-  "scripts": {
-    "test": "login"
+  "author": {
+    "name": "borie88"
   },
-  "version": "1.0.4"
+  "dependencies": {
+    "axios": "^0.18.0"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/borie88/we-login/issues"
+  },
+  "homepage": "https://github.com/borie88/we-login#readme"
 }
