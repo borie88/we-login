@@ -1,0 +1,25 @@
+{
+  "author": {
+    "name": "borie88"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "axios": "^0.18.0",
+    "sanitize-html": "^1.18.2",
+    "emoji-strip": "^1.0.1"
+  },
+  "deprecated": false,
+  "description": "Manage logins through WeChat Mini Programs",
+  "keywords": [
+    "WeChat",
+    "Mini Program",
+    "小程序"
+  ],
+  "license": "ISC",
+  "main": "dist/index.js",
+  "name": "we-login",
+  "scripts": {
+    "test": "login"
+  },
+  "version": "1.0.4"
+}
