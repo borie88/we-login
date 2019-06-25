@@ -1,6 +1,6 @@
 {
   "name": "we-login",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Manage logins through WeChat Mini Programs",
   "main": "dist/index.js",
   "scripts": {
@@ -19,7 +19,7 @@
     "name": "borie88"
   },
   "dependencies": {
-    "axios": "^0.18.0"
+    "axios": "^0.19.0"
   },
   "license": "ISC",
   "bugs": {
